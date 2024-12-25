@@ -128,3 +128,6 @@ ScaffoldingReadMe.txt
 
 # ignore rider generated files
 *.idea
+
+# ignore viscose generated files
+*.vscode
